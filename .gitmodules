@@ -1,0 +1,12 @@
+[submodule "SVD-Thesis"]
+	path = SVD-Thesis
+	url = git@github.com:acastellanos95/SVD-Thesis.git
+[submodule "SVD-OMP-only"]
+	path = SVD-OMP-only
+	url = git@github.com:acastellanos95/SVD-OMP-only.git
+[submodule "SVD-Jacobi-MPI-OMP"]
+	path = SVD-Jacobi-MPI-OMP
+	url = git@github.com:acastellanos95/SVD-Jacobi-MPI-OMP.git
+[submodule "SVD-Jacobi-MPI-CUDA"]
+	path = SVD-Jacobi-MPI-CUDA
+	url = git@github.com:acastellanos95/SVD-Jacobi-MPI-CUDA.git
